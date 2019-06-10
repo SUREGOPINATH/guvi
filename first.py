@@ -7,4 +7,4 @@ try:
  else:
   print("Zero")
 except:
- print('invalid')
+ print('Invalid')
