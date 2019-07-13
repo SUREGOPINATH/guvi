@@ -11,8 +11,7 @@ if len(ls)==n:
     if len(a)!=0:
         a=set(a)
         for i in a:
-            res+=str(i)
+            res+=str(i)+" "
         print(res)
     else:
         print("unique")
-    
